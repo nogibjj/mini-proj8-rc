@@ -50,6 +50,6 @@ We will evaluate the performance improvements achieved by the Rust implementatio
 
 ## Conclusion
 
-This project provides valuable insights into the performance and resource utilization differences between Python and Rust for data processing tasks. It highlights the strengths and limitations of each language and helps inform the choice of a programming language for specific use cases.
+This project provides valuable insights into the performance and resource utilization differences between Python and Rust for data processing tasks. It highlights the strengths and limitations of each language and helps inform the choice of a programming language for specific use cases. In this project, we can obviously see the higher performance of rust than python especially in the time spent (354.417um vs 0.0018s).
 
 Enjoy exploring the world of data processing in Python and Rust!
